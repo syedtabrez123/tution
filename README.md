@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Use HTTP client to create Course and its Tutors as shown in below screenshot
+<img width="861" alt="Screenshot 2021-07-13 at 9 27 37 PM" src="https://user-images.githubusercontent.com/6071739/125485434-6fff158d-3979-4c0f-8847-85d45ba8defc.png">
